@@ -1,6 +1,4 @@
-# Hi, I'm Ali Rashid 👋
-
-I'm a **Mechanical Engineering student from NED University of Engineering & Technology** with an aim to apply engineering principles, AI and IoT to practical industrial problems.
+I'm a **Mechanical Engineer graduated from NED University of Engineering & Technology** with an aim to apply engineering principles, AI and IoT to practical industrial problems.
 
 My field of interest spans **manufacturing, quality assurance, utilities, power-generation systems, process optimization, and IoT systems**.
 
