@@ -1,3 +1,6 @@
 title: Ali Rashid
-logo: /images/hs.jpg
+logo: /Profile-Pic.jpg
+show_downloads: false
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
