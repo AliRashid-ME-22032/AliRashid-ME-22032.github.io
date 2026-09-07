@@ -1,302 +1,188 @@
-Ali Rashid — Mechanical Engineering Portfolio
+# Hi, I'm Ali Rashid 👋
 
-Aspiring and forward-thinking Mechanical Engineer with a strong analytical foundation and an interest in solving practical engineering problems through mechanical engineering, industrial operations, AI, and IoT.
+I'm a **Mechanical Engineering student from NED University of Engineering & Technology** with an aim to apply engineering principles, AI and IoT to practical industrial problems.
 
-👨‍💻 About Me
+My field of interest spans **manufacturing, quality assurance, utilities, power-generation systems, process optimization, and IoT systems**.
 
-I am a Mechanical Engineering student at NED University of Engineering & Technology, with hands-on exposure to:
+---
 
-Industrial manufacturing and production systems
+## 🚀 About Me
 
-Quality assurance and inspection
+* 🎓 B.E Mechanical Engineering — **NED University of Engineering & Technology (2022–2026)**
+* 🤖 Interested in **AI-driven engineering optimization and IoT**
+* 🏭 Internship exposure at **Indus Motor Company Ltd., Pak Suzuki Motor Company Ltd., and Artistic Milliners**
+* 📊 Interested in **Process Optimization through AI and IoT, Maintenance, Production, Quality Control**
+* 🏆 **Best Final Year Project Award by NED University of Engineering and Technology**
+* 🏆 **Best FYP Poster Presentation Award — 15th IMEC 2026**
+* 🥇 **Best IoT Project Winner — 4th AI and IoT Exhibition — NED University**
+* 📈 CGPA: **3.708**
 
-Utilities and power-generation systems
+---
 
-AI-driven engineering optimization
+## 🎓 Education
 
-IoT and embedded systems
+**NED University of Engineering & Technology**  
+B.E Mechanical Engineering | 2022–2026  
+**CGPA: 3.708** (Secured 16th position in Mechanical Engineering Batch of 2022)
 
-Process improvement and data analysis
+**Admajee Govt. Science College**  
+Pre-Engineering | 2020–2022  
+**91.8%** (Among the top 20 position holders in karachi)
 
-I aim to develop efficient, practical, and creative solutions to real-world engineering challenges while continuously learning and contributing through adaptability and a proactive work ethic.
+**SM Public Academy**  
+Computer Science | 2018–2020  
+**93.4%** (Secured 12th position in Karachi)
 
-🎓 Education
+---
 
-Institution
+### 🤖 AI-Driven Operational Optimization and Lifecycle Cost Analysis of Compressors
 
-Program
+**Final Year Project — FFBL Power Company Ltd.**
 
-Period
+An AI-based engineering system designed for **Operational Optimization and Lifecycle Cost Analysis of Rotary Screw Compressors**.
 
-Result
+**Outcomes:**
 
-NED University of Engineering & Technology
+* Designed an AI-based compressor optimization system.
+* Collected and processed real-time operational data.
+* Developed an AI pipeline (DBSCAN-XGBOOST-GA) for power optimization.
+* Also developed framework for reducing maintenance and operational cost.
+* Focused on reducing operational and maintenance costs.
 
-Bachelor of Engineering in Mechanical Engineering
+🔗 **[Live Dashboard](https://compressorai-frontend-kappa.vercel.app/dashboard)**
 
-2022–2026
+---
 
-CGPA: 3.708
+## 💼 Industrial Experience
 
-Admajee Govt. Science College
+| Company                           | Role                          | Period              |
+| --------------------------------- | ----------------------------- | ------------------- |
+| **Indus Motor Company Ltd.**      | Project Intern — Paint Shop   | Jul 2025 – Aug 2025 |
+| **Pak Suzuki Motor Company Ltd.** | Intern — Quality Assurance    | Mar 2025            |
+| **Artistic Milliners**            | Intern — Utilities Department | Aug 2024 – Sep 2024 |
 
-Pre-Engineering
+### Indus Motor Company
 
-2020–2022
+* Conducted Time and Motion Analysis across various sections of the Paint Shop.
+* Developed, verified, and standardized Work Instruction Sheets (WIS) to ensure that workers perform their jobs in a standardized manner.
+* Prepared Yamazumi Charts for line balancing, identifying bottlenecks and opportunities for Muda elimination and cycle time optimization.
+* Gained hands-on exposure to Toyota Production System (TPS) tools, including Gemba, 5S, and Kaizen.
+* Acquired practical understanding of the operations of Paint Shop.
+ 
+### Pak Suzuki Motor Company
 
-91.8%
+* Conducted Quality Inspections in the Weld Shop and Vehicle Final Assembly (VFA) using Standard Operating Procedures (SOP).
+* Performed parts inspection (Sheet Metal, Casting & Forging, Plastics, Rubber & Electrical) using CMM, VMM, and precision measuring tools.
+* Assisted in MARU-A (safety-critical) and Non-MARU-A parts classification and inspection protocols.
+* Participated in 4W and 2W vehicle inspections, including static checks, brake tests, side slip, alignment, and road testing.
+*  Assist in Global Customer Audit (GCA) before delivery.
+* Contributed to defect identification and root cause analysis using 7 QC tools.
 
-SM Public Academy
+### Artistic Milliners
 
-Computer Science
+* Gained exposure to industrial utility systems supporting large-scale textile manufacturing operations.
+* Observed Compressed Air Systems, air treatment units, and distribution networks used across production departments.
+* Learned the working principles and operational control of chillers, boilers, and Compressors.
+*Gained understanding of Water Management Systems, including RO Plant, Effluent Treatment Plant (ETP) operations.
+* Assisted in monitoring utility performance parameters such as pressure, temperature, flow rate, and energy consumption.
+* Observed preventive maintenance practices for utility equipment, focusing on minimizing downtime and ensuring safe operation.
 
-2018–2020
+---
 
-93.4%
+## 🔥 Project Work
 
-🚀 Featured Projects
+### 🚗 Smart Parking System
 
-AI-Driven Operational Optimization and Life Cycle Cost Analysis of Compressors
+An **IoT-based automated parking management system** developed at NED University.
 
-FFBL Power Company Ltd. — Final Year Project | Aug 2025 – Jun 2026
+**Outcomes:**
 
-Designed an AI-based system for compressor operation optimization and lifecycle cost analysis.
+* Real-time vehicle detection.
+* Automated gate control.
+* Live parking-slot monitoring.
+* Cloud connectivity.
+* Remote IoT dashboard.
 
-Collected and processed real-time data for model development.
+🏆 **Best Project Winner — NED University of Engineering & Technology**
 
-Built an AI pipeline to optimize performance and energy use.
+🔗 **[Live Project](https://sparkly-tulumba-9730dc.netlify.app/)**
+🎥 **[Project Video](https://www.youtube.com/watch?v=ZWFQkwzXxzo)**
 
-Focused on reducing operational and maintenance costs.
+---
 
-Project Dashboard:
-https://compressorai-frontend-kappa.vercel.app/dashboard
+### 🏭 Time & Motion Study — Indus Motor Company
 
-Smart Parking System
+Applied industrial engineering techniques in the **Paint Shop** to analyze and improve production efficiency.
 
-NED University of Engineering & Technology
+**Features:**
 
-Engineered an IoT-based smart parking system for automated vehicle detection.
+* Time & Motion Analysis.
+* Work Instruction Sheet (WIS) standardization.
+* Line balancing and Yamazumi Chart analysis.
+* Bottleneck identification and Muda elimination.
+* Cycle-time optimization.
 
-Integrated ultrasonic sensors, ESP32, and servo control for real-time operation.
+---
 
-Developed a React dashboard with cloud connectivity for live monitoring.
+### 🔥 Boiler Performance & Feed-Water Treatment
 
-Awarded Best Project at the 4th AI & IoT Exhibition.
+**FFBL Power Company Ltd.**
 
-Project:
-https://sparkly-tulumba-9730dc.netlify.app/
+* Calculated boiler efficiency.
+* Observed Boiler Maintenance practices and feed-water treatment process.
+* Studied industrial safety protocols.
 
-Time and Motion Study
+---
 
-Indus Motor Company Ltd.
+### ♨️ Redesigning of Shell & Tube Heat Exchanger
 
-Performed time and motion analysis to improve Paint Shop efficiency.
+**Artistic Milliners**
 
-Standardized Work Instruction Sheets (WIS) to improve consistency.
+* Collected operating data.
+* Calculated existing heat-exchanger effectiveness.
+* Evaluated current performance.
+* Proposed redesign modifications for improved heat transfer.
 
-Analyzed Yamazumi charts for line balancing and cycle-time optimization.
+---
 
-Applied Toyota Production System (TPS) tools including Gemba, 5S, and Kaizen.
+## 🏆 Achievements
 
-Identified opportunities for productivity improvement and Muda elimination.
+🏅 **16th Position Holder — Department of Mechanical Engineering**
 
-Evaluation of Boiler Performance & Feed-Water Treatment Facility
+Achieved 16th Position in the Department of Mechanical Engineering at NED University of Engineering & Technology, in recognition of strong academic performance and consistent commitment to excellence throughout the undergraduate program. 
 
-FFBL Power Company Ltd.
+🏆 **Best Final Year Project — NED University of Engineering & Technology**
 
-Calculated boiler efficiency.
+The project was recognized among the **Best Final Year Projects at NED University by UAFA**, while also receiving acceptance for **ASME PVP2026 (Paper No. PVP2026-198220)**. This journey strengthened my expertise in data-driven engineering, machine learning, lifecycle cost analysis, and industrial optimization.
 
-Examined the feed-water treatment process.
+🥇 **Best Poster Award — 15th IMEC 2026**
 
-Observed boiler maintenance and safety protocols.
+Awarded the Best Poster Award at the **15th International Mechanical Engineering Conference (IMEC 2026)** for presenting a project poster selected among the top 21 submissions. Collaborated with a team to showcase research work on an international platform, engaging with industry professionals, researchers, and academics. This achievement reflects strong research aptitude, teamwork, and effective technical communication, supported by academic and industrial supervision.
 
-Redesign of Shell & Tube Heat Exchanger for Effective Heat Transfer
+🥇 **Best Project Winner — 4th AI and IoT Exhibition**
 
-Artistic Milliners
+Developed an automated Smart Vehicle Parking Management System using an ESP32 microcontroller to optimize urban parking efficiency. The system utilizes Ultrasonic Sensors to detect vehicle presence in real-time, displaying slot availability on a remote React-based IoT dashboard. This project demonstrates my knowledge in IoT architecture, real-time data monitoring, and the application of embedded systems to solve modern logistical challenges.
 
-Collected operating data and calculated the existing heat exchanger effectiveness.
+🏅 **12th Position Holder — Board of Secondary Education, Karachi**
 
-Redesigned the heat exchanger and recommended modifications to improve effectiveness.
+Awarded a Merit Certificate by the **Board of Secondary Education Karachi** in recognition of achieving a 12th Position in the Secondary School Certificate (S.S.C.) examinations. This honor was bestowed for securing 93.4%, demonstrating exceptional academic performance and commitment to excellence during the 2020 academic year.
 
-🏭 Industrial Experience
+---
 
-Indus Motor Company Ltd.
+## 📚 Conferences & Seminars
 
-Project Intern — Paint Shop | Jul 2025 – Aug 2025
+* **15th International Mechanical Engineering Conference (IMEC 2026)**
+* **Seminar on Cogeneration Plant**
+* **Seminar on Production Engineering**
 
-Conducted Time and Motion Analysis across Paint Shop sections.
+---
 
-Developed, verified, and standardized Work Instruction Sheets (WIS).
+## 📫 Connect With Me
 
-Prepared Yamazumi Charts for line balancing.
+📧 **Email:** [pc16726alirashid@gmail.com](mailto:pc16726alirashid@gmail.com)
 
-Identified bottlenecks and opportunities for Muda elimination and cycle-time optimization.
+💼 **LinkedIn:** [linkedin.com/in/ali-rashid-me22032](https://www.linkedin.com/in/ali-rashid-me22032)
 
-Gained practical exposure to Toyota Production System (TPS), including Gemba, 5S, and Kaizen.
+---
 
-Developed an understanding of Paint Shop operations.
-
-Pak Suzuki Motor Company Ltd.
-
-Intern — Quality Assurance Department | Mar 2025
-
-Conducted quality inspections in the Weld Shop and Vehicle Final Assembly (VFA).
-
-Inspected sheet metal, casting, forging, plastics, rubber, and electrical parts.
-
-Used CMM, VMM, and precision measuring tools.
-
-Assisted with MARU-A and Non-MARU-A parts classification and inspection protocols.
-
-Participated in 4W and 2W vehicle inspections, including static checks, brake tests, side-slip, alignment, and road testing.
-
-Assisted in Global Customer Audit (GCA) activities before delivery.
-
-Contributed to defect identification and root-cause analysis using the 7 QC tools.
-
-Artistic Milliners
-
-Intern — Utilities Department | Aug 2024 – Sep 2024
-
-Gained exposure to industrial utility systems supporting textile manufacturing.
-
-Observed boilers, steam distribution, air compressors, chillers, cooling towers, and water supply systems.
-
-Studied compressed-air systems, including compressor operation, air treatment, and distribution networks.
-
-Learned operating principles and controls of chillers, boilers, and compressors.
-
-Gained exposure to RO Plant and Effluent Treatment Plant (ETP) operations.
-
-Monitored pressure, temperature, flow rate, and energy-consumption parameters.
-
-Observed preventive-maintenance practices focused on minimizing downtime and ensuring safe operation.
-
-🛠️ Skills
-
-Technical
-
-Power Generation
-
-Boiler & Utility Operations
-
-AI & IoT
-
-Mechanical Engineering
-
-Industrial Operations
-
-Process Improvement
-
-Tools & Methods
-
-CAD
-
-FMEA
-
-Root Cause Analysis
-
-Condition Monitoring
-
-Microsoft Excel
-
-Data Analysis
-
-Statistical Analysis with Minitab
-
-MATLAB
-
-Microsoft Office
-
-Soft Skills
-
-Teamwork
-
-Organizational & Planning Skills
-
-Critical Thinking
-
-Decision-Making
-
-Adaptability
-
-Learning Agility
-
-🏆 Achievements & Awards
-
-Best Poster Award — 15th IMEC 2026
-
-Jan 2026
-
-Awarded the Best Poster Award at the 15th International Mechanical Engineering Conference (IMEC 2026) for presenting a project poster selected among the top 21 submissions. The achievement involved collaborative research, technical communication, and engagement with industry professionals, researchers, and academics.
-
-Best Project Winner — NED University of Engineering & Technology
-
-Nov 2025
-
-Developed an automated Smart Vehicle Parking Management System using an ESP32 microcontroller, ultrasonic sensors, an OLED display, a React-based IoT dashboard, and a servo motor-controlled gate mechanism.
-
-Project Video:
-https://www.youtube.com/watch?v=ZWFQkwzXxzo
-
-12th Position Holder — Board of Secondary Education, Karachi
-
-2020
-
-Received a Merit Certificate for securing 12th position in the Secondary School Certificate (S.S.C.) examinations with 95.6% (813/850 marks).
-
-📚 Conferences & Seminars
-
-15th IMEC 2026
-
-Participated in technical sessions, poster presentations, and knowledge-sharing discussions with industry professionals, researchers, and academics in mechanical engineering.
-
-Seminar on Cogeneration Plant
-
-Technical seminar hosted by the Department of Mechanical Engineering at NED University of Engineering & Technology and led by Mr. Muhammad Usman from Lotte Chemical.
-
-Topics included:
-
-Combined heat and power systems
-
-Energy efficiency
-
-Thermodynamic cycles
-
-Industrial cogeneration
-
-Sustainable energy solutions
-
-Utility management
-
-Seminar on Production Engineering
-
-Industry-led seminar covering:
-
-Manufacturing-process optimization
-
-Resource allocation
-
-Production planning
-
-Quality control
-
-Operational efficiency
-
-Integrated management systems
-
-🌐 Languages
-
-Urdu — Mother Tongue
-
-English
-
-German
-
-📫 Contact
-
-Email: pc16726alirashid@gmail.com
-
-Phone: +92 321 2398068
-
-LinkedIn: https://www.linkedin.com/in/ali-rashid-me22032
+> *Engineering is about turning problems into practical, efficient, and measurable solutions.*
