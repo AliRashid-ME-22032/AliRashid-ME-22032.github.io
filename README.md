@@ -10,14 +10,6 @@ Mechanical Engineering graduate from **NED University of Engineering & Technolog
 
 ---
 
-<div class="stats">
-  <div class="stat"><strong>3.71</strong><span>CGPA</span></div>
-  <div class="stat"><strong>3</strong><span>Industrial Internships</span></div>
-  <div class="stat"><strong>4+</strong><span>Major Projects</span></div>
-</div>
-
----
-
 ## 🎓 Education
 
 <div class="projects">
@@ -51,22 +43,19 @@ Mechanical Engineering graduate from **NED University of Engineering & Technolog
 
 <div class="blue-box">
 
-# 🤖 AI-Driven Operational Optimization & Lifecycle Cost Analysis of Compressors
+<h2>🤖 AI-Driven Operational Optimization & Lifecycle Cost Analysis of Compressors</h2>
+<h3>Partner Organization: FFBL Power Company Ltd.</h3>
 
-### Partner Organization: FFBL Power Company Ltd.
+<p>An AI-based engineering system designed for <b>Operational Optimization and Lifecycle Cost Analysis of Rotary Screw Compressors</b>.</p>
 
-An AI-based engineering system designed for **Operational Optimization and Lifecycle Cost Analysis of Rotary Screw Compressors**.
+<b>Key Outcomes:</b>
+<ul>
+  <li>Developed an end-to-end AI pipeline (<b>DBSCAN - XGBoost - Genetic Algorithm</b>) for power optimization.</li>
+  <li>Collected and processed real-time operational utility data.</li>
+  <li>Built a predictive framework for reducing maintenance and operational costs.</li>
+  <li>Accepted for <b>ASME PVP2026 (Paper No. PVP2026-198220)</b>.</li>
+</ul>
 
-**Key Outcomes:**
-- Developed an end-to-end AI pipeline (**DBSCAN - XGBoost - Genetic Algorithm**) for power optimization.
-- Collected and processed real-time operational utility data.
-- Built a predictive framework for reducing maintenance and operational costs.
-- Accepted for **ASME PVP2026 (Paper No. PVP2026-198220)**.
-
-**Technologies Used:**  
-<span class="tag">Python</span><span class="tag">Machine Learning</span><span class="tag">DBSCAN</span><span class="tag">XGBoost</span><span class="tag">Genetic Algorithm</span><span class="tag">Predictive Maintenance</span>
-
-<br><br>
 <a class="btn" href="https://compressorai-frontend-kappa.vercel.app/dashboard" target="_blank">🌐 View Live Dashboard</a>
 
 </div>
@@ -120,7 +109,6 @@ An AI-based engineering system designed for **Operational Optimization and Lifec
     <li>Automated gate control and live parking-slot monitoring.</li>
     <li>Cloud connectivity with a remote React-based IoT dashboard.</li>
   </ul>
-  <span class="tag">ESP32</span><span class="tag">IoT</span><span class="tag">React</span><span class="tag">Sensors</span><br><br>
   <a class="btn" href="https://sparkly-tulumba-9730dc.netlify.app/" target="_blank">🌐 Live Project</a>
   <a class="btn" href="https://www.youtube.com/watch?v=ZWFQkwzXxzo" target="_blank">🎥 Video Demo</a>
 </div>
@@ -134,7 +122,6 @@ An AI-based engineering system designed for **Operational Optimization and Lifec
     <li>Evaluated thermal performance across operating parameters.</li>
     <li>Proposed redesign modifications for improved overall heat transfer efficiency.</li>
   </ul>
-  <span class="tag">Thermodynamics</span><span class="tag">Heat Transfer</span><span class="tag">Process Optimization</span>
 </div>
 
 ---
@@ -152,13 +139,6 @@ An AI-based engineering system designed for **Operational Optimization and Lifec
 <div class="achievement">
   🥇 <b>Best IoT Project Winner</b> — 4th AI & IoT Exhibition, NED University (Smart Parking Project).
 </div>
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [pc16726alirashid@gmail.com](mailto:pc16726alirashid@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ali-rashid-me22032](https://www.linkedin.com/in/ali-rashid-me22032)
 
 ---
 
