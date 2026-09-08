@@ -1,0 +1,209 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* =========================
+   COLOR VARIABLES
+========================= */
+:root {
+    --primary: #00c96b;
+    --primary-dark: #009e55;
+    --light-green: #e8fff4;
+    --dark: #17221c;
+    --text: #555;
+    --white: #ffffff;
+    --blue: #2196f3;
+    --orange: #ff9800;
+}
+
+/* =========================
+   GENERAL STYLES
+========================= */
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: var(--text);
+    background: #ffffff;
+    line-height: 1.7;
+}
+
+h1, h2, h3 {
+    color: var(--dark);
+}
+
+h2 {
+    margin-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--primary);
+}
+
+a {
+    color: var(--primary-dark);
+    font-weight: 600;
+}
+
+a:hover {
+    color: var(--primary);
+}
+
+/* =========================
+   PROFILE IMAGE
+========================= */
+header img {
+    border-radius: 50%;
+    border: 5px solid var(--primary);
+    padding: 5px;
+    transition: 0.3s;
+}
+
+header img:hover {
+    transform: scale(1.05);
+}
+
+/* =========================
+   BUTTONS
+========================= */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: var(--primary);
+    color: white !important;
+    border-radius: 25px;
+    text-decoration: none;
+    margin: 5px 0;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+}
+
+/* =========================
+   CARDS & COLORED BOXES
+========================= */
+.card {
+    background: var(--white);
+    border-radius: 15px;
+    padding: 25px;
+    margin: 20px 0;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    border-left: 5px solid var(--primary);
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.green-box {
+    background: var(--light-green);
+    border-left: 5px solid var(--primary);
+    padding: 20px;
+    border-radius: 12px;
+    margin: 15px 0;
+}
+
+.blue-box {
+    background: #edf6ff;
+    border-left: 5px solid var(--blue);
+    padding: 20px;
+    border-radius: 12px;
+    margin: 15px 0;
+}
+
+.orange-box {
+    background: #fff5e6;
+    border-left: 5px solid var(--orange);
+    padding: 20px;
+    border-radius: 12px;
+    margin: 15px 0;
+}
+
+/* =========================
+   TAGS & BADGES
+========================= */
+.tag {
+    display: inline-block;
+    padding: 6px 14px;
+    margin: 4px;
+    border-radius: 20px;
+    background: var(--light-green);
+    color: var(--primary-dark);
+    font-size: 13px;
+    font-weight: 600;
+}
+
+/* =========================
+   STATISTICS GRID
+========================= */
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.stat {
+    text-align: center;
+    background: var(--light-green);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.stat strong {
+    display: block;
+    font-size: 28px;
+    color: var(--primary);
+}
+
+.stat span {
+    font-size: 13px;
+}
+
+/* =========================
+   PROJECTS & EXPERIENCE
+========================= */
+.projects {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.project {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    border-top: 5px solid var(--primary);
+    transition: 0.3s;
+}
+
+.project:hover {
+    transform: translateY(-7px);
+}
+
+.experience {
+    background: #f8fffb;
+    padding: 25px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border-left: 5px solid var(--primary);
+}
+
+.experience-date {
+    color: var(--primary-dark);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* =========================
+   MOBILE RESPONSIVENESS
+========================= */
+@media screen and (max-width: 700px) {
+    .projects {
+        grid-template-columns: 1fr;
+    }
+    .stats {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
