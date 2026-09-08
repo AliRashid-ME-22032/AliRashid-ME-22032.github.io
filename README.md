@@ -111,36 +111,31 @@ An AI-based engineering system designed for **Operational Optimization and Lifec
 
 ## 🔥 Other Key Projects
 
-<div class="projects">
-
-  <div class="project">
-    <h3>🚗 Smart Parking System</h3>
-    <p>IoT-based automated parking management system using ESP32 & Ultrasonic Sensors with a live React dashboard.</p>
-    <span class="tag">ESP32</span><span class="tag">IoT</span><span class="tag">React</span><span class="tag">Sensors</span><br><br>
-    <a class="btn" href="https://sparkly-tulumba-9730dc.netlify.app/" target="_blank">Live Project</a>
-    <a class="btn" href="https://www.youtube.com/watch?v=ZWFQkwzXxzo" target="_blank">Video Demo</a>
-  </div>
-
-  <div class="project">
-    <h3>♨️ Heat Exchanger Redesign</h3>
-    <p>Performance evaluation and thermal redesign proposals for Shell & Tube Heat Exchangers at Artistic Milliners.</p>
-    <span class="tag">Thermodynamics</span><span class="tag">Heat Transfer</span><span class="tag">Process Optimization</span>
-  </div>
-
+<div class="experience">
+  <h3>🚗 Smart Parking System</h3>
+  <span class="experience-date">NED University of Engineering & Technology</span>
+  <p>An IoT-based automated parking management system developed to optimize urban parking efficiency.</p>
+  <ul>
+    <li>Real-time vehicle detection using Ultrasonic Sensors and ESP32.</li>
+    <li>Automated gate control and live parking-slot monitoring.</li>
+    <li>Cloud connectivity with a remote React-based IoT dashboard.</li>
+  </ul>
+  <span class="tag">ESP32</span><span class="tag">IoT</span><span class="tag">React</span><span class="tag">Sensors</span><br><br>
+  <a class="btn" href="https://sparkly-tulumba-9730dc.netlify.app/" target="_blank">🌐 Live Project</a>
+  <a class="btn" href="https://www.youtube.com/watch?v=ZWFQkwzXxzo" target="_blank">🎥 Video Demo</a>
 </div>
 
----
-
-## 🛠️ Technical Skills
-
-**Mechanical Engineering:**  
-<span class="tag">SolidWorks</span><span class="tag">Fusion 360</span><span class="tag">ANSYS</span><span class="tag">MATLAB</span><span class="tag">Thermodynamics</span><span class="tag">Fluid Mechanics</span>
-
-**AI, ML & Programming:**  
-<span class="tag">Python</span><span class="tag">Machine Learning</span><span class="tag">TensorFlow</span><span class="tag">SQL</span><span class="tag">C/C++</span><span class="tag">JavaScript</span>
-
-**Industrial & Quality Engineering:**  
-<span class="tag">TPS & Kaizen</span><span class="tag">5S</span><span class="tag">7 QC Tools</span><span class="tag">Time & Motion Study</span><span class="tag">Yamazumi Charts</span><span class="tag">Root Cause Analysis</span>
+<div class="experience">
+  <h3>♨️ Redesigning of Shell & Tube Heat Exchanger</h3>
+  <span class="experience-date">Artistic Milliners</span>
+  <p>Performance evaluation and thermal redesign project for industrial heat exchangers.</p>
+  <ul>
+    <li>Collected operating data and calculated existing heat-exchanger effectiveness.</li>
+    <li>Evaluated thermal performance across operating parameters.</li>
+    <li>Proposed redesign modifications for improved overall heat transfer efficiency.</li>
+  </ul>
+  <span class="tag">Thermodynamics</span><span class="tag">Heat Transfer</span><span class="tag">Process Optimization</span>
+</div>
 
 ---
 
