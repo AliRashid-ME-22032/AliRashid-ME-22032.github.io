@@ -2,8 +2,6 @@
 
 # 👋 Hello, I'm Ali Rashid
 
-### Mechanical Engineer | AI & IoT Specialist | Process Optimization
-
 Mechanical Engineering graduate from **NED University of Engineering & Technology**, focused on solving practical industrial problems through engineering principles, Artificial Intelligence, and IoT.
 
 <a class="btn" href="mailto:pc16726alirashid@gmail.com">📧 Contact Me</a>
@@ -16,7 +14,6 @@ Mechanical Engineering graduate from **NED University of Engineering & Technolog
   <div class="stat"><strong>3.71</strong><span>CGPA</span></div>
   <div class="stat"><strong>3</strong><span>Industrial Internships</span></div>
   <div class="stat"><strong>4+</strong><span>Major Projects</span></div>
-  <div class="stat"><strong>3</strong><span>National Awards</span></div>
 </div>
 
 ---
@@ -39,21 +36,20 @@ Mechanical Engineering graduate from **NED University of Engineering & Technolog
     <p>🏅 Among the top 20 position holders in Karachi.</p>
   </div>
 
-</div>
+  <div class="project">
+    <h3>🎓 SM Public Academy</h3>
+    <b>Computer Science (2018–2020)</b><br>
+    <b>Percentage: 93.4%</b>
+    <p>🏅 Secured 12th position in Board of Secondary Education Karachi.</p>
+  </div>
 
-<br>
-
-<div class="green-box">
-  <h3>🎓 SM Public Academy</h3>
-  <b>Computer Science (2018–2020) — Percentage: 93.4%</b>
-  <p>🏅 Secured 12th position in Board of Secondary Education Karachi.</p>
 </div>
 
 ---
 
 ## 🚀 Featured Final Year Project
 
-<div class="green-box">
+<div class="blue-box">
 
 # 🤖 AI-Driven Operational Optimization & Lifecycle Cost Analysis of Compressors
 
