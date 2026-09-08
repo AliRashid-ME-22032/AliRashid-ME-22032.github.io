@@ -1,8 +1,5 @@
 title: Ali Rashid
-logo: /assets/img/Profile-Pic.jpg
+logo: /Profile-Pic.jpg
 description: Mechanical Engineer | Manufacturing | Quality | AI | IoT
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
-
-github:
-  is_project_page: false
