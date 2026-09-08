@@ -3,17 +3,18 @@
 @import "{{ site.theme }}";
 
 /* =========================
-   COLOR VARIABLES
+   COLOR VARIABLES (Light Blue & Grey Theme)
 ========================= */
 :root {
-    --primary: #00c96b;
-    --primary-dark: #009e55;
-    --light-green: #e8fff4;
-    --dark: #17221c;
-    --text: #555;
+    --primary: #0284c7;        /* Soft Blue */
+    --primary-dark: #0369a1;   /* Darker Blue */
+    --light-blue: #e0f2fe;     /* Light Blue Box Background */
+    --card-bg: #f0f9ff;        /* Cards Background */
+    --body-bg: #f3f4f6;        /* Light Grey Background */
+    --dark: #1e293b;
+    --text: #334155;
     --white: #ffffff;
-    --blue: #2196f3;
-    --orange: #ff9800;
+    --orange: #f97316;
 }
 
 /* =========================
@@ -22,8 +23,27 @@
 body {
     font-family: "Segoe UI", Arial, sans-serif;
     color: var(--text);
-    background: #ffffff;
+    background-color: var(--body-bg) !important;
     line-height: 1.7;
+}
+
+/* Sidebar & Header CSS */
+header {
+    background: transparent;
+}
+
+header img {
+    border-radius: 50%;
+    border: 4px solid var(--primary);
+    padding: 4px;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+}
+
+/* Hide theme buttons & extra links */
+header ul, .downloads {
+    display: none !important;
 }
 
 h1, h2, h3 {
@@ -31,8 +51,8 @@ h1, h2, h3 {
 }
 
 h2 {
-    margin-top: 50px;
-    padding-bottom: 10px;
+    margin-top: 40px;
+    padding-bottom: 8px;
     border-bottom: 3px solid var(--primary);
 }
 
@@ -43,20 +63,6 @@ a {
 
 a:hover {
     color: var(--primary);
-}
-
-/* =========================
-   PROFILE IMAGE
-========================= */
-header img {
-    border-radius: 50%;
-    border: 5px solid var(--primary);
-    padding: 5px;
-    transition: 0.3s;
-}
-
-header img:hover {
-    transform: scale(1.05);
 }
 
 /* =========================
@@ -79,41 +85,26 @@ header img:hover {
 }
 
 /* =========================
-   CARDS & COLORED BOXES
+   LIGHT BLUE CARDS & BOXES
 ========================= */
-.card {
-    background: var(--white);
-    border-radius: 15px;
-    padding: 25px;
-    margin: 20px 0;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-    border-left: 5px solid var(--primary);
+.card, .project, .experience, .achievement {
+    background: var(--card-bg) !important;
+    border-radius: 12px;
+    padding: 22px;
+    margin: 15px 0;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    border-left: 5px solid var(--primary) !important;
     transition: 0.3s;
 }
 
-.card:hover {
-    transform: translateY(-5px);
+.card:hover, .project:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
 }
 
-.green-box {
-    background: var(--light-green);
-    border-left: 5px solid var(--primary);
-    padding: 20px;
-    border-radius: 12px;
-    margin: 15px 0;
-}
-
-.blue-box {
-    background: #edf6ff;
-    border-left: 5px solid var(--blue);
-    padding: 20px;
-    border-radius: 12px;
-    margin: 15px 0;
-}
-
-.orange-box {
-    background: #fff5e6;
-    border-left: 5px solid var(--orange);
+.green-box, .blue-box, .orange-box {
+    background: var(--light-blue) !important;
+    border-left: 5px solid var(--primary) !important;
     padding: 20px;
     border-radius: 12px;
     margin: 15px 0;
@@ -124,10 +115,10 @@ header img:hover {
 ========================= */
 .tag {
     display: inline-block;
-    padding: 6px 14px;
-    margin: 4px;
-    border-radius: 20px;
-    background: var(--light-green);
+    padding: 5px 12px;
+    margin: 3px;
+    border-radius: 15px;
+    background: var(--light-blue);
     color: var(--primary-dark);
     font-size: 13px;
     font-weight: 600;
@@ -138,56 +129,37 @@ header img:hover {
 ========================= */
 .stats {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 15px;
-    margin: 30px 0;
+    margin: 25px 0;
 }
 
 .stat {
     text-align: center;
-    background: var(--light-green);
-    padding: 20px;
-    border-radius: 15px;
+    background: var(--light-blue);
+    padding: 18px;
+    border-radius: 12px;
+    border: 1px solid #bae6fd;
 }
 
 .stat strong {
     display: block;
-    font-size: 28px;
-    color: var(--primary);
+    font-size: 26px;
+    color: var(--primary-dark);
 }
 
 .stat span {
     font-size: 13px;
+    color: var(--text);
 }
 
 /* =========================
-   PROJECTS & EXPERIENCE
+   PROJECTS GRID
 ========================= */
 .projects {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-}
-
-.project {
-    background: white;
-    padding: 25px;
-    border-radius: 15px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
-    border-top: 5px solid var(--primary);
-    transition: 0.3s;
-}
-
-.project:hover {
-    transform: translateY(-7px);
-}
-
-.experience {
-    background: #f8fffb;
-    padding: 25px;
-    border-radius: 15px;
-    margin: 20px 0;
-    border-left: 5px solid var(--primary);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
 }
 
 .experience-date {
@@ -196,14 +168,12 @@ header img:hover {
     font-weight: bold;
 }
 
-/* =========================
-   MOBILE RESPONSIVENESS
-========================= */
-@media screen and (max-width: 700px) {
+/* RESPONSIVE MOBILE */
+@media screen and (max-width: 768px) {
     .projects {
         grid-template-columns: 1fr;
     }
     .stats {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 }
