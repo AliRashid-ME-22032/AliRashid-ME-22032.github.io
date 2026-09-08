@@ -1,184 +1,172 @@
-I'm a **Mechanical Engineer graduated from NED University of Engineering & Technology** with an aim to apply engineering principles, AI and IoT to practical industrial problems.
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-My field of interest spans **manufacturing, quality assurance, utilities, power-generation systems, process optimization, and IoT systems**.
+# 👋 Hello, I'm Ali Rashid
+
+### Mechanical Engineer | AI & IoT Specialist | Process Optimization
+
+Mechanical Engineering graduate from **NED University of Engineering & Technology**, focused on solving practical industrial problems through engineering principles, Artificial Intelligence, and IoT.
+
+<a class="btn" href="mailto:pc16726alirashid@gmail.com">📧 Contact Me</a>
+<a class="btn" href="https://www.linkedin.com/in/ali-rashid-me22032" target="_blank">💼 LinkedIn</a>
+<a class="btn" href="https://compressorai-frontend-kappa.vercel.app/dashboard" target="_blank">🚀 Featured Project</a>
 
 ---
 
-## 🚀 About Me
-
-* 🎓 B.E Mechanical Engineering — **NED University of Engineering & Technology (2022–2026)**
-* 🤖 Interested in **AI-driven engineering optimization and IoT**
-* 🏭 Internship exposure at **Indus Motor Company Ltd., Pak Suzuki Motor Company Ltd., and Artistic Milliners**
-* 📊 Interested in **Process Optimization through AI and IoT, Maintenance, Production, Quality Control**
-* 🏆 **Best Final Year Project Award by NED University of Engineering and Technology**
-* 🏆 **Best FYP Poster Presentation Award — 15th IMEC 2026**
-* 🥇 **Best IoT Project Winner — 4th AI and IoT Exhibition — NED University**
-* 📈 CGPA: **3.708**
+<div class="stats">
+  <div class="stat"><strong>3.71</strong><span>CGPA</span></div>
+  <div class="stat"><strong>3</strong><span>Industrial Internships</span></div>
+  <div class="stat"><strong>4+</strong><span>Major Projects</span></div>
+  <div class="stat"><strong>3</strong><span>National Awards</span></div>
+</div>
 
 ---
 
 ## 🎓 Education
 
-**NED University of Engineering & Technology**  
-B.E Mechanical Engineering | 2022–2026  
-**CGPA: 3.708** (Secured 16th position in Mechanical Engineering Batch of 2022)
+<div class="projects">
 
-**Admajee Govt. Science College**  
-Pre-Engineering | 2020–2022  
-**91.8%** (Among the top 20 position holders in karachi)
+  <div class="project">
+    <h3>🎓 NED University</h3>
+    <b>B.E Mechanical Engineering (2022–2026)</b><br>
+    <b>CGPA: 3.708 / 4.00</b>
+    <p>🏅 Secured 16th position in Mechanical Engineering Batch of 2022.</p>
+  </div>
 
-**SM Public Academy**  
-Computer Science | 2018–2020  
-**93.4%** (Secured 12th position in Karachi)
+  <div class="project">
+    <h3>🎓 Adamjee Govt. Science College</h3>
+    <b>Pre-Engineering (2020–2022)</b><br>
+    <b>Percentage: 91.8%</b>
+    <p>🏅 Among the top 20 position holders in Karachi.</p>
+  </div>
+
+</div>
+
+<br>
+
+<div class="green-box">
+  <h3>🎓 SM Public Academy</h3>
+  <b>Computer Science (2018–2020) — Percentage: 93.4%</b>
+  <p>🏅 Secured 12th position in Board of Secondary Education Karachi.</p>
+</div>
 
 ---
 
-### 🤖 AI-Driven Operational Optimization and Lifecycle Cost Analysis of Compressors
+## 🚀 Featured Final Year Project
 
-**Final Year Project — FFBL Power Company Ltd.**
+<div class="green-box">
+
+# 🤖 AI-Driven Operational Optimization & Lifecycle Cost Analysis of Compressors
+
+### Partner Organization: FFBL Power Company Ltd.
 
 An AI-based engineering system designed for **Operational Optimization and Lifecycle Cost Analysis of Rotary Screw Compressors**.
 
-**Outcomes:**
+**Key Outcomes:**
+- Developed an end-to-end AI pipeline (**DBSCAN - XGBoost - Genetic Algorithm**) for power optimization.
+- Collected and processed real-time operational utility data.
+- Built a predictive framework for reducing maintenance and operational costs.
+- Accepted for **ASME PVP2026 (Paper No. PVP2026-198220)**.
 
-* Designed an AI-based compressor optimization system.
-* Collected and processed real-time operational data.
-* Developed an AI pipeline (DBSCAN-XGBOOST-GA) for power optimization.
-* Also developed framework for reducing maintenance and operational cost.
-* Focused on reducing operational and maintenance costs.
+**Technologies Used:**  
+<span class="tag">Python</span><span class="tag">Machine Learning</span><span class="tag">DBSCAN</span><span class="tag">XGBoost</span><span class="tag">Genetic Algorithm</span><span class="tag">Predictive Maintenance</span>
 
-🔗 **[Live Dashboard](https://compressorai-frontend-kappa.vercel.app/dashboard)**
+<br><br>
+<a class="btn" href="https://compressorai-frontend-kappa.vercel.app/dashboard" target="_blank">🌐 View Live Dashboard</a>
+
+</div>
 
 ---
 
 ## 💼 Industrial Experience
 
-| Company                           | Role                          | Period              |
-| --------------------------------- | ----------------------------- | ------------------- |
-| **Indus Motor Company Ltd.**      | Project Intern — Paint Shop   | Jul 2025 – Aug 2025 |
-| **Pak Suzuki Motor Company Ltd.** | Intern — Quality Assurance    | Mar 2025            |
-| **Artistic Milliners**            | Intern — Utilities Department | Aug 2024 – Sep 2024 |
+<div class="experience">
+  <h3>🚗 Indus Motor Company Ltd.</h3>
+  <span class="experience-date">Jul 2025 – Aug 2025 | Project Intern — Paint Shop</span>
+  <ul>
+    <li>Conducted Time and Motion Analysis across various sections of the Paint Shop.</li>
+    <li>Developed, verified, and standardized Work Instruction Sheets (WIS).</li>
+    <li>Prepared Yamazumi Charts for line balancing and bottleneck identification.</li>
+    <li>Applied Toyota Production System (TPS) tools including Gemba, 5S, and Kaizen.</li>
+  </ul>
+</div>
 
-### Indus Motor Company
+<div class="experience">
+  <h3>⚙️ Pak Suzuki Motor Company Ltd.</h3>
+  <span class="experience-date">Mar 2025 | Intern — Quality Assurance</span>
+  <ul>
+    <li>Executed Quality Inspections in Weld Shop and Vehicle Final Assembly (VFA).</li>
+    <li>Performed parts inspection using CMM, VMM, and precision measuring tools.</li>
+    <li>Assisted in MARU-A and Non-MARU-A safety-critical classification protocols.</li>
+    <li>Contributed to defect root-cause analysis using 7 QC tools.</li>
+  </ul>
+</div>
 
-* Conducted Time and Motion Analysis across various sections of the Paint Shop.
-* Developed, verified, and standardized Work Instruction Sheets (WIS) to ensure that workers perform their jobs in a standardized manner.
-* Prepared Yamazumi Charts for line balancing, identifying bottlenecks and opportunities for Muda elimination and cycle time optimization.
-* Gained hands-on exposure to Toyota Production System (TPS) tools, including Gemba, 5S, and Kaizen.
-* Acquired practical understanding of the operations of Paint Shop.
- 
-### Pak Suzuki Motor Company
-
-* Conducted Quality Inspections in the Weld Shop and Vehicle Final Assembly (VFA) using Standard Operating Procedures (SOP).
-* Performed parts inspection (Sheet Metal, Casting & Forging, Plastics, Rubber & Electrical) using CMM, VMM, and precision measuring tools.
-* Assisted in MARU-A (safety-critical) and Non-MARU-A parts classification and inspection protocols.
-* Participated in 4W and 2W vehicle inspections, including static checks, brake tests, side slip, alignment, and road testing.
-*  Assist in Global Customer Audit (GCA) before delivery.
-* Contributed to defect identification and root cause analysis using 7 QC tools.
-
-### Artistic Milliners
-
-* Gained exposure to industrial utility systems supporting large-scale textile manufacturing operations.
-* Observed Compressed Air Systems, air treatment units, and distribution networks used across production departments.
-* Learned the working principles and operational control of chillers, boilers, and Compressors.
-*Gained understanding of Water Management Systems, including RO Plant, Effluent Treatment Plant (ETP) operations.
-* Assisted in monitoring utility performance parameters such as pressure, temperature, flow rate, and energy consumption.
-* Observed preventive maintenance practices for utility equipment, focusing on minimizing downtime and ensuring safe operation.
-
----
-
-## 🔥 Project Work
-
-### 🚗 Smart Parking System
-
-An **IoT-based automated parking management system** developed at NED University.
-
-**Outcomes:**
-
-* Real-time vehicle detection.
-* Automated gate control.
-* Live parking-slot monitoring.
-* Cloud connectivity.
-* Remote IoT dashboard.
-
-🏆 **Best Project Winner — NED University of Engineering & Technology**
-
-🔗 **[Live Project](https://sparkly-tulumba-9730dc.netlify.app/)**
-🎥 **[Project Video](https://www.youtube.com/watch?v=ZWFQkwzXxzo)**
+<div class="experience">
+  <h3>🏭 Artistic Milliners</h3>
+  <span class="experience-date">Aug 2024 – Sep 2024 | Intern — Utilities Department</span>
+  <ul>
+    <li>Monitored industrial utility systems: Compressed Air Systems, Chillers, Boilers, and Compressors.</li>
+    <li>Studied Water Management Systems including RO Plant and Effluent Treatment Plant (ETP).</li>
+    <li>Tracked utility parameters (pressure, temperature, flow rate, energy consumption).</li>
+  </ul>
+</div>
 
 ---
 
-### 🏭 Time & Motion Study — Indus Motor Company
+## 🔥 Other Key Projects
 
-Applied industrial engineering techniques in the **Paint Shop** to analyze and improve production efficiency.
+<div class="projects">
 
-**Features:**
+  <div class="project">
+    <h3>🚗 Smart Parking System</h3>
+    <p>IoT-based automated parking management system using ESP32 & Ultrasonic Sensors with a live React dashboard.</p>
+    <span class="tag">ESP32</span><span class="tag">IoT</span><span class="tag">React</span><span class="tag">Sensors</span><br><br>
+    <a class="btn" href="https://sparkly-tulumba-9730dc.netlify.app/" target="_blank">Live Project</a>
+    <a class="btn" href="https://www.youtube.com/watch?v=ZWFQkwzXxzo" target="_blank">Video Demo</a>
+  </div>
 
-* Time & Motion Analysis.
-* Work Instruction Sheet (WIS) standardization.
-* Line balancing and Yamazumi Chart analysis.
-* Bottleneck identification and Muda elimination.
-* Cycle-time optimization.
+  <div class="project">
+    <h3>♨️ Heat Exchanger Redesign</h3>
+    <p>Performance evaluation and thermal redesign proposals for Shell & Tube Heat Exchangers at Artistic Milliners.</p>
+    <span class="tag">Thermodynamics</span><span class="tag">Heat Transfer</span><span class="tag">Process Optimization</span>
+  </div>
 
----
-
-### 🔥 Boiler Performance & Feed-Water Treatment
-
-**FFBL Power Company Ltd.**
-
-* Calculated boiler efficiency.
-* Observed Boiler Maintenance practices and feed-water treatment process.
-* Studied industrial safety protocols.
+</div>
 
 ---
 
-### ♨️ Redesigning of Shell & Tube Heat Exchanger
+## 🛠️ Technical Skills
 
-**Artistic Milliners**
+**Mechanical Engineering:**  
+<span class="tag">SolidWorks</span><span class="tag">Fusion 360</span><span class="tag">ANSYS</span><span class="tag">MATLAB</span><span class="tag">Thermodynamics</span><span class="tag">Fluid Mechanics</span>
 
-* Collected operating data.
-* Calculated existing heat-exchanger effectiveness.
-* Evaluated current performance.
-* Proposed redesign modifications for improved heat transfer.
+**AI, ML & Programming:**  
+<span class="tag">Python</span><span class="tag">Machine Learning</span><span class="tag">TensorFlow</span><span class="tag">SQL</span><span class="tag">C/C++</span><span class="tag">JavaScript</span>
 
----
-
-## 🏆 Achievements
-
-🏅 **16th Position Holder — Department of Mechanical Engineering**
-
-Achieved 16th Position in the Department of Mechanical Engineering at NED University of Engineering & Technology, in recognition of strong academic performance and consistent commitment to excellence throughout the undergraduate program. 
-
-🏆 **Best Final Year Project — NED University of Engineering & Technology**
-
-The project was recognized among the **Best Final Year Projects at NED University by UAFA**, while also receiving acceptance for **ASME PVP2026 (Paper No. PVP2026-198220)**. This journey strengthened my expertise in data-driven engineering, machine learning, lifecycle cost analysis, and industrial optimization.
-
-🥇 **Best Poster Award — 15th IMEC 2026**
-
-Awarded the Best Poster Award at the **15th International Mechanical Engineering Conference (IMEC 2026)** for presenting a project poster selected among the top 21 submissions. Collaborated with a team to showcase research work on an international platform, engaging with industry professionals, researchers, and academics. This achievement reflects strong research aptitude, teamwork, and effective technical communication, supported by academic and industrial supervision.
-
-🥇 **Best Project Winner — 4th AI and IoT Exhibition**
-
-Developed an automated Smart Vehicle Parking Management System using an ESP32 microcontroller to optimize urban parking efficiency. The system utilizes Ultrasonic Sensors to detect vehicle presence in real-time, displaying slot availability on a remote React-based IoT dashboard. This project demonstrates my knowledge in IoT architecture, real-time data monitoring, and the application of embedded systems to solve modern logistical challenges.
-
-🏅 **12th Position Holder — Board of Secondary Education, Karachi**
-
-Awarded a Merit Certificate by the **Board of Secondary Education Karachi** in recognition of achieving a 12th Position in the Secondary School Certificate (S.S.C.) examinations. This honor was bestowed for securing 93.4%, demonstrating exceptional academic performance and commitment to excellence during the 2020 academic year.
+**Industrial & Quality Engineering:**  
+<span class="tag">TPS & Kaizen</span><span class="tag">5S</span><span class="tag">7 QC Tools</span><span class="tag">Time & Motion Study</span><span class="tag">Yamazumi Charts</span><span class="tag">Root Cause Analysis</span>
 
 ---
 
-## 📚 Conferences & Seminars
+## 🏆 Honors & Achievements
 
-* **15th International Mechanical Engineering Conference (IMEC 2026)**
-* **Seminar on Cogeneration Plant**
-* **Seminar on Production Engineering**
+<div class="achievement">
+  🏆 <b>Best Final Year Project Award</b> — Recognized by UAFA at NED University of Engineering and Technology.
+</div>
+
+<div class="achievement">
+  🥇 <b>Best Poster Award</b> — 15th International Mechanical Engineering Conference (IMEC 2026).
+</div>
+
+<div class="achievement">
+  🥇 <b>Best IoT Project Winner</b> — 4th AI & IoT Exhibition, NED University (Smart Parking Project).
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [pc16726alirashid@gmail.com](mailto:pc16726alirashid@gmail.com)
-
+📧 **Email:** [pc16726alirashid@gmail.com](mailto:pc16726alirashid@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/ali-rashid-me22032](https://www.linkedin.com/in/ali-rashid-me22032)
 
 ---
