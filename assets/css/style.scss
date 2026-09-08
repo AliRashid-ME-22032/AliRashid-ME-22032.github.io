@@ -14,7 +14,6 @@
     --dark: #1e293b;
     --text: #334155;
     --white: #ffffff;
-    --orange: #f97316;
 }
 
 /* =========================
@@ -27,23 +26,25 @@ body {
     line-height: 1.7;
 }
 
-/* Sidebar & Header CSS */
+/* Hide Sidebar Title, Extra Links, and Footer Text */
+header h1, header p.view, footer, header ul, .downloads {
+    display: none !important;
+}
+
 header {
     background: transparent;
+    padding-top: 10px;
 }
 
+/* Vertical Rectangle Profile Picture */
 header img {
-    border-radius: 50%;
+    border-radius: 16px !important; /* Rounded Vertical Rectangle */
     border: 4px solid var(--primary);
-    padding: 4px;
-    width: 140px;
-    height: 140px;
+    padding: 3px;
+    width: 160px;
+    height: 210px;
     object-fit: cover;
-}
-
-/* Hide theme buttons & extra links */
-header ul, .downloads {
-    display: none !important;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
 }
 
 h1, h2, h3 {
@@ -97,12 +98,12 @@ a:hover {
     transition: 0.3s;
 }
 
-.card:hover, .project:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+.card:hover, .experience:hover, .achievement:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
 }
 
-.green-box, .blue-box, .orange-box {
+.blue-box {
     background: var(--light-blue) !important;
     border-left: 5px solid var(--primary) !important;
     padding: 20px;
@@ -154,7 +155,7 @@ a:hover {
 }
 
 /* =========================
-   PROJECTS GRID
+   EDUCATION GRID
 ========================= */
 .projects {
     display: grid;
